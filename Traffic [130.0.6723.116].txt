@@ -1,0 +1,6 @@
+The network traffic when run with Chrome version: 130.0.6723.116
+		 
+		 hour        rx      |     tx      |    total    |   avg. rate
+		 ------------------------+-------------+-------------+---------------
+         15:00      6.25 GiB |  115.47 MiB |    6.36 GiB |   15.18 Mbit/s     
+		 16:00      5.48 GiB |   97.72 MiB |    5.58 GiB |   13.31 Mbit/s
